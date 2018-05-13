@@ -1,0 +1,9 @@
+c:\Users\Дарья\documents\visual studio 2015\Projects\Queue\QTest\bin\Debug\QTest.dll
+c:\Users\Дарья\documents\visual studio 2015\Projects\Queue\QTest\bin\Debug\QTest.pdb
+c:\Users\Дарья\documents\visual studio 2015\Projects\Queue\QTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\Дарья\documents\visual studio 2015\Projects\Queue\QTest\bin\Debug\Queue.exe
+c:\Users\Дарья\documents\visual studio 2015\Projects\Queue\QTest\bin\Debug\Queue.pdb
+c:\Users\Дарья\documents\visual studio 2015\Projects\Queue\QTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\Users\Дарья\documents\visual studio 2015\Projects\Queue\QTest\obj\Debug\QTest.csprojResolveAssemblyReference.cache
+c:\Users\Дарья\documents\visual studio 2015\Projects\Queue\QTest\obj\Debug\QTest.dll
+c:\Users\Дарья\documents\visual studio 2015\Projects\Queue\QTest\obj\Debug\QTest.pdb
